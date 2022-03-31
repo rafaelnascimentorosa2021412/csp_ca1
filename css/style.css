@@ -1,0 +1,25 @@
+ /* This is pseudocode for a CSS rule */
+ /*selector { 
+    property: value; 
+    property: value; 
+ } */
+ /* This would be another, second rule */
+ /*selector { 
+    property: value; 
+ }*/
+ 
+ p {
+     /* applies to all paragraphs */
+     font-family: 'Helvetica'
+ }
+ 
+ .alert {
+     /* applies to all elements with class="alert" */
+     font-size: larger;
+ }
+ 
+ .success {
+     /* applies to all elements with class="success" */
+     color: #28a745;
+     /* a pleasant green */
+ }
