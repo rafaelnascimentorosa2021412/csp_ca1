@@ -54,3 +54,8 @@
      color: #ffed8d;
      font-size: 14px;
  }
+ 
+ figcaption {
+     font-size: 12px;
+     padding-top: 5px;
+ }
