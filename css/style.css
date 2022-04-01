@@ -19,6 +19,35 @@
  .nav-link {
      color: #4173bc!important;
  }
+ 
+ article {
+     padding: 15px;
+     margin-top: 30px;
+     margin-bottom: 10px;
+     background-color: #4173bc;
+     color: #ffed8d;
+ }
+ 
+ h2 {
+     border-bottom: 1px solid #ffed8d;
+     padding-bottom: 10px;
+     padding-left: 15px;
+     margin-bottom: 15px;
+ }
+ 
+ p {
+     text-align: justify;
+     padding: 15px;
+ }
+ 
+ h3 {
+     font-size: 20px;
+ }
+ 
+ .see-more-links {
+     color: #ffed8d;
+     font-size: 16px;
+ }
  /* This is pseudocode for a CSS rule */
  /*selector { 
     property: value; 
