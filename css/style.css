@@ -1,7 +1,7 @@
  /* Header style */
  
  header {
-     background-color: #4173bc;
+     background-color: #193966;
  }
  
  .h1-div {
@@ -11,20 +11,20 @@
  }
  
  .navigation-container {
-     border-bottom: 2px solid #4173bc;
+     border-bottom: 2px solid #193966;
      padding-bottom: 10px;
  }
  /* Used important to change bootstrap color from nav*/
  
  .nav-link {
-     color: #4173bc!important;
+     color: #193966!important;
  }
  
  article {
      padding: 15px;
      margin-top: 30px;
      margin-bottom: 10px;
-     background-color: #4173bc;
+     background-color: #193966;
      color: #ffed8d;
  }
  
@@ -38,38 +38,19 @@
  p {
      text-align: justify;
      padding: 15px;
+     font-family: 'Helvetica';
  }
  
- h3 {
+ .see-more-style {
+     padding-left: 30px;
      font-size: 20px;
+ }
+ 
+ .see-more-links-div {
+     padding-left: 15px;
  }
  
  .see-more-links {
      color: #ffed8d;
-     font-size: 16px;
- }
- /* This is pseudocode for a CSS rule */
- /*selector { 
-    property: value; 
-    property: value; 
- } */
- /* This would be another, second rule */
- /*selector { 
-    property: value; 
- }*/
- 
- p {
-     /* applies to all paragraphs */
-     font-family: 'Helvetica'
- }
- 
- .alert {
-     /* applies to all elements with class="alert" */
-     font-size: larger;
- }
- 
- .success {
-     /* applies to all elements with class="success" */
-     color: #28a745;
-     /* a pleasant green */
+     font-size: 14px;
  }
