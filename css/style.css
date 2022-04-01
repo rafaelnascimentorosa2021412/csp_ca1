@@ -59,3 +59,14 @@
      font-size: 12px;
      padding-top: 5px;
  }
+ /*Table styles*/
+ 
+ .table {
+     color: white;
+     border-color: white;
+ }
+ 
+ footer {
+     text-align: center;
+     font-size: 14px;
+ }
