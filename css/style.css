@@ -9,6 +9,16 @@
      text-align: start;
      color: gold;
  }
+ 
+ .navigation-container {
+     border-bottom: 2px solid #4173bc;
+     padding-bottom: 10px;
+ }
+ /* Used important to change bootstrap color from nav*/
+ 
+ .nav-link {
+     color: #4173bc!important;
+ }
  /* This is pseudocode for a CSS rule */
  /*selector { 
     property: value; 
